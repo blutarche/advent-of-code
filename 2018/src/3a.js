@@ -3,7 +3,7 @@ import _ from 'lodash'
 import { readInput, writeAnswer, addAnswerLine, getAnswer } from './utils'
 
 const main = async () => {
-  const input = await readInput('3a')
+  const input = await readInput('3')
 
   const grid = {}
 

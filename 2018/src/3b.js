@@ -20,7 +20,7 @@ const isOverlap = (a, b) => {
 }
 
 const main = async () => {
-  const input = await readInput('3b')
+  const input = await readInput('3')
 
   let nonOverlap = null
 

@@ -26,7 +26,7 @@ const findOnlyDiffIndex = (boxes, currentBox) => {
 }
 
 const main = async () => {
-  const input = await readInput('2b')
+  const input = await readInput('2')
 
   let answer = null
 

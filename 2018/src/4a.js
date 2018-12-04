@@ -36,7 +36,7 @@ const getLogs = inputs => {
 }
 
 const main = async () => {
-  const inputs = await readInput('4a')
+  const inputs = await readInput('4')
 
   const logs = getLogs(inputs)
 
