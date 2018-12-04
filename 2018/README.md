@@ -2,7 +2,7 @@
 
 ## Input
 
-Put input file into `input/` folder and name it something like `1a`, `1b`, `2a` and so on.
+Put input file into `input/` folder and name it something like `1`, `2`, `3` and so on.
 
 ## Solve
 
