@@ -7,7 +7,8 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2"
   },
   "scripts": {
     "solve": "babel-node",
